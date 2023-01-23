@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: @warningprikoloff(https://telegram.me/warningprikoloff)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 madvishel@gmail.com(mailto:madvishel@gmail.com)</code>
